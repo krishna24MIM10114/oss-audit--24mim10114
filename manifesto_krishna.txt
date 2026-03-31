@@ -1,0 +1,9 @@
+----------------------------------------
+        OPEN SOURCE MANIFESTO
+----------------------------------------
+Date: 31 March 2026
+
+I believe in the power of open source.
+Using tools like git, I experience freedom to modify in technology.
+In the future, I would like to build a useful software tool and share it freely with the world.
+Open source is not just code, it is a philosophy of collaboration and innovation.
